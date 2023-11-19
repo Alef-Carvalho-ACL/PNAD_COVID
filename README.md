@@ -44,3 +44,52 @@ Este projeto foi desenvolvido para fornecer insights valiosos para a preparaçã
 - ![Cor Azul Escuro] `#486773`
 - ![Cor Azul Claro] `#7AB0C2`
 - ![Cor Cinza Azulado] `#B9C3C2`
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+# PNAD COVID Data Analysis
+
+## Introduction
+
+This project uses the Star Schema to organize PNAD data into a Data Warehouse, optimizing analyses and reports on the COVID-19 pandemic.
+
+## Database Structure
+
+The database structure consists of a central fact table and several dimensions, reflecting different aspects of the pandemic:
+
+- **Health Dimension**: Symptoms and Vaccination.
+- **Work Dimension**: Employment and economic activity information.
+- **Population Dimension**: Demographic data.
+- **Economic Dimension**: Economic indicators.
+- **Behavior Dimension**: Attitudes during the pandemic.
+
+## Project Files
+
+- `Query_Dimension_Fact_Staging.sql` - SQL script for DW structuring.
+- `ETL_PnadCovid.ipynb` - Jupyter Notebook detailing the ETL process using Python.
+
+### Exploratory Analysis
+
+We identified critical patterns and trends through a detailed analysis of selected variables, using statistical and predictive methods.
+
+### Modeling
+
+We used logistic regression to examine the relationship between symptoms and demographic and economic variables.
+
+## Conclusions and Recommendations
+_Prepare for future challenges with our strategic recommendations._
+
+- **Differentiated Screening**: Adapt screening based on age and living conditions.
+- **Socioeconomic Support**: Meet the needs of the most vulnerable.
+- **Monitoring and Education**: Educate on prevention and management of symptoms.
+
+## About the Project
+
+This project was developed to provide valuable insights for the preparation of hospitals and health institutions in response to COVID-19.
+
+## Design Colors
+
+- ![Beige Color] `#E8D9C6`
+- ![Dark Blue Color] `#486773`
+- ![Light Blue Color] `#7AB0C2`
+- ![Bluish Gray Color] `#B9C3C2`
