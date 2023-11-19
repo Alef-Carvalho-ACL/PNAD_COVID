@@ -1,5 +1,7 @@
 # Análise de Dados do PNAD COVID 🚀
 
+[![00-Home.png](https://i.postimg.cc/Y0MGRJk6/f9136293-e7e3-45ed-9694-91128a5154ef.jpg)](https://postimg.cc/hzZtPZXv)
+
 ## Introdução 🤓
 
 Este projeto utiliza o Star Schema para organizar dados da PNAD em um Data Warehouse, otimizando análises e relatórios sobre a pandemia COVID-19.
@@ -93,3 +95,5 @@ This project was developed to provide valuable insights for the preparation of h
 - ![Dark Blue Color] `#486773`
 - ![Light Blue Color] `#7AB0C2`
 - ![Bluish Gray Color] `#B9C3C2`
+
+[![01-Home.png](https://i.postimg.cc/vB6khNXZ/62beb905-ba26-4678-9c4b-2de3a95985f4.jpg)](https://postimg.cc/S2kgNVwB)
